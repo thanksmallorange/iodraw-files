@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-10" value="子轨迹长度＜1000米？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-11" target="e9d3WLlMhmE9QY5qAwsZ-12">
           <mxGeometry relative="1" as="geometry" />
