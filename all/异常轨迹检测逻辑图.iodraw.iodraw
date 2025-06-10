@@ -20,16 +20,16 @@
           <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-3" value="标记为正常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-4" target="e9d3WLlMhmE9QY5qAwsZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-4" value="轨迹段总位移≥50米？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-5" value="标记为正常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-6" target="e9d3WLlMhmE9QY5qAwsZ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -38,22 +38,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-6" value="距离位移比≥4？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-7" value="标记为绕圈行为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-8" target="e9d3WLlMhmE9QY5qAwsZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-8" value="划分子轨迹（DP算法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-9" target="e9d3WLlMhmE9QY5qAwsZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-9" value="遍历每个子轨迹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-10" target="e9d3WLlMhmE9QY5qAwsZ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-10" value="子轨迹长度＜1000米？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-11" target="e9d3WLlMhmE9QY5qAwsZ-12">
           <mxGeometry relative="1" as="geometry" />
@@ -71,16 +71,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-11" value="距离位移比＜1.1？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-12" value="标记为正常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-13" target="e9d3WLlMhmE9QY5qAwsZ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-13" value="简化轨迹并计算航向角差异" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.577;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-4" target="e9d3WLlMhmE9QY5qAwsZ-6">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-29" value="航向角超阈值点数≥3？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-30" value="标记为绕圈行为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-31" target="e9d3WLlMhmE9QY5qAwsZ-32">
           <mxGeometry relative="1" as="geometry" />
@@ -104,13 +104,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-31" value="简化后轨迹点数≥4？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-32" value="标记为S形前进行为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-33" value="标记为正常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
