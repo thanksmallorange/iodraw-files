@@ -22,7 +22,7 @@
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-3" value="标记为正常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-43" target="e9d3WLlMhmE9QY5qAwsZ-5">
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-4" target="e9d3WLlMhmE9QY5qAwsZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-4" value="轨迹段总位移≥50米？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -118,14 +118,17 @@
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-40" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="176" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9d3WLlMhmE9QY5qAwsZ-4" target="e9d3WLlMhmE9QY5qAwsZ-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="280" as="sourcePoint" />
-            <mxPoint x="190" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-47" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-43" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="271" width="60" height="30" as="geometry" />
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-48" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-49" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-50" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="135" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
