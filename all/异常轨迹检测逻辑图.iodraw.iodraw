@@ -139,17 +139,11 @@
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-55" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="654" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-56" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-22" y="1029" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-57" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="264" y="755" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-58" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-192" y="1404" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-59" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="94" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-60" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="755" width="60" height="30" as="geometry" />
@@ -161,7 +155,13 @@
           <mxGeometry x="354" y="943" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e9d3WLlMhmE9QY5qAwsZ-69" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="506" y="940" width="60" height="30" as="geometry" />
+          <mxGeometry x="506" y="942" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-70" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="446" y="1043" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e9d3WLlMhmE9QY5qAwsZ-73" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="596" y="1043" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
